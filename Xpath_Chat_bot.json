@@ -1,10 +1,3 @@
 {
-    "nombre": "John Doe",
-    "edad": 30,
-    "ciudad": "New York",
-    "hobbies": ["correr", "leer", "viajar"],
-    "trabajo": {
-        "empresa": "ABC Inc.",
-        "puesto": "Desarrollador"
-    }
+    "fecha":"19/18/2024"
 }
